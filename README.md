@@ -7,4 +7,4 @@ Field experiment is the foundation for gaining agronomic insight into causal rel
 
 [[pdf](mabps.pdf)]
 
-![](fig1.png =320x)
+![](fig1.png =320x100)
